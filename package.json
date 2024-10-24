@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "test": "next lint",
-    "lint": "next lint --no-interactive"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "14.2.10",
