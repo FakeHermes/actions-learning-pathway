@@ -6,13 +6,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "test": "next lint"，
+    "test": "next lint",
     "lint": "next lint --no-interactive"
   },
   "dependencies": {
     "next": "14.2.10",
     "react": "18.2.0",
-    "react-dom": "18.2.0"，
+    "react-dom": "18.2.0",
     "eslint": "^8.0.0",
     "eslint-config-next": "^12.0.0"
   }
